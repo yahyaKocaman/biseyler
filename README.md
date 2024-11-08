@@ -1,1 +1,1 @@
-![Team_Logo](https://github.com/yahyaKocaman/biseyler/blob/master/logo.jpg)
+![Team_Logo](https://github.com/yahyaKocaman/biseyler/blob/yandal/logo.jpg)
